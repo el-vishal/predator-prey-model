@@ -2,7 +2,7 @@
 
 **Lotka Voltera equations using MATLAB**
 
-Report + MATLAB code + Outputs can be found in respository
+Report + MATLAB code + Outputs can be found in repository
 
 **Output samples:**
 
